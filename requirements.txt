@@ -1,0 +1,17 @@
+dash
+pandas
+requests
+bs4
+gunicorn
+dnspython
+dash-bootstrap-components
+dash-core-components
+dash-daq
+dash-html-components
+dash-player
+dash-renderer
+dash-table
+plotly
+alpha_vantage
+pytrends
+wordcloud
