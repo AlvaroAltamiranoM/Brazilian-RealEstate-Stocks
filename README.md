@@ -9,3 +9,4 @@ Provide a free, open-source tool that can serve as a data-driven first-tier filt
 
 ### Results
 The app's features and functionalities are explained in this Medium post:
+https://ajaltamiranomontoya.medium.com/dont-try-to-time-the-market-7f4678ecafe8
