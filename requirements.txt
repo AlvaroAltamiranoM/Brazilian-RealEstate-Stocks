@@ -12,6 +12,6 @@ dash-player
 dash-renderer
 dash-table
 plotly
-alpha_vantage
 pytrends
-wordcloud
+pandas_datareader
+yfinance
